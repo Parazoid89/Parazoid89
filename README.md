@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Parazoid89
-- 👀 I’m interested in ... education, recreation
-- 🌱 I’m currently learning ... Solidity, Django
-- 💞️ I’m looking to collaborate on ... ai, dapps 
+- 👀 I’m interested in ... code
+- 🌱 I’m currently learning ... codeo
+- 💞️ I’m looking to collaborate on ... code
 - 📫 How to reach me ... brad7777@live.com
 
 <!---
