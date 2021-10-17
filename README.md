@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Parazoid89
-- 👀 I’m interested in ... code
-- 🌱 I’m currently learning ... codeo
-- 💞️ I’m looking to collaborate on ... code
+- 👀 I’m interested in ... 
+- 🌱 I’m currently learning ... 
+- 💞️ I’m looking to collaborate on ...
 
 <!---
 Parazoid89/Parazoid89 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
