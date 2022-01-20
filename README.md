@@ -12,7 +12,10 @@ Here are some stuff I've used
 <img src="./techstack/git.svg" width="32">
 <img src="./techstack/html.svg" width="32">
 <img src="./techstack/javascript.svg" width="32">
+<img src="./techstack/latex.svg" width="32">
+<img src="./techstack/markdown.svg" width="32">
 <img src="./techstack/numpy.svg" width="32">
 <img src="./techstack/python.svg" width="32">
+<img src="./techstack/react.svg" width="32">
 <img src="./techstack/vscode.svg" width="32">
 </div>
