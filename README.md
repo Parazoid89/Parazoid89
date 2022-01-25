@@ -23,6 +23,7 @@ Here's some stuff I've used
 <img src="./techstack/python.svg" width="32">
 <img src="./techstack/react.svg" width="32">
 <img src="./techstack/regex.svg" width="32">
+<img src="./techstack/sass.svg" width="32">
 <img src="./techstack/scikit-learn.svg" width="32">
 <img src="./techstack/vscode.svg" width="32">
 </div>
