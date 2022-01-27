@@ -16,6 +16,7 @@ Here's some stuff I've used
   <a href="https://jupyter.org/" target="_blank"><img src="./techstack/jupyter.svg" width="32"></a>
   <a href="https://keras.io/" target="_blank"><img src="./techstack/keras.svg" width="32"></a>
   <a href="https://www.latex-project.org/" target="_blank"><img src="./techstack/latex.svg" width="32"></a>
+  <a href="https://www.lua.org/" target="_blank"><img src="./techstack/lua.svg" width="32"></a>
   <a href="https://daringfireball.net/projects/markdown/" target="_blank"><img src="./techstack/markdown.svg" width="32"></a>
   <a href="https://matplotlib.org/" target="_blank"><img src="./techstack/matplotlib.svg" width="32"></a>
   <a href="https://notepad-plus-plus.org/" target="_blank"><img src="./techstack/notepad++.svg" width="32"></a>
