@@ -3,9 +3,9 @@ BGraham89/BGraham89 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-## Skills and Tools
+# Skills and Tools
 
-Here's some stuff I've used  
+Here's some stuff that I've used:  
 
 <div style="display: flex">
   <a href="https://www.anaconda.com/" target="_blank"><img src="./techstack/anaconda.svg" width="32"></a>
