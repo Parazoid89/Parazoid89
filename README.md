@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 
 # Techstack
 
-Here's some of the things that I've used before:  
+Here's some of the tools that I've used before:  
 
 <div style="display: flex">
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="./techstack/css.svg" width="32"></a>
