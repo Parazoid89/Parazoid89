@@ -13,4 +13,5 @@ Here's some of the tools that I've used before:
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="./techstack/javascript.svg" width="32"></a>
   <a href="https://www.lua.org/" target="_blank"><img src="./techstack/lua.svg" width="32"></a>
   <a href="https://www.python.org/" target="_blank"><img src="./techstack/python.svg" width="32"></a>
+    <a href="https://github.com/microsoft/TypeScript" target="_blank"><img src="./techstack/typescript.svg" width="32"></a>
 </div>
